@@ -1,0 +1,1 @@
+DateTime.now("Europe/Copenhagen")
